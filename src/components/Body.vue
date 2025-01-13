@@ -7,9 +7,9 @@ import Recomendations from './mainBlocks/Recomendations.vue';
 
 <template>
     <div class="flex flex-col gap-10 w-4/5">
+        <Recomendations />
         <Popular />
         <News />
         <Reviews />
-        <Recomendations />
     </div>
 </template>
