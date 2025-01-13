@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gradient-to-r from-[#1D359D] via-[#2d51d3] to-[#1d359d] py-10">
+    <div class="bg-custom-gradient py-10">
         <div class=" flex justify-between items-center px-8">
             <div class="w-fit">
                 <img src="/small_logo.png" alt="Logo" class="w-40">

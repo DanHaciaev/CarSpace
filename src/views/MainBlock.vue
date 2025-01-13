@@ -6,7 +6,6 @@ import Body from '@/components/Body.vue'
 <template>
     <div class="flex p-8 gap-10">
         <LeftAside />
-
         <Body></Body>
     </div>
 </template>

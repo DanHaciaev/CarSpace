@@ -1,5 +1,5 @@
 <template>
-    <div class="w-60">
+    <div class="w-1/5">
         <div v-for="(categorySet, index) in categorySets" :key="index" class="mb-4">
             <button @click="toggleCategories(index)"
                 class="flex items-center justify-between w-full text-left text-lg font-bold">
@@ -15,7 +15,7 @@
             </div>
         </div>
 
-        <div class="mt-10 p-4 flex flex-col items-center gap-4 bg-gradient-20deg rounded-xl">
+        <div class="mt-10 p-4 flex flex-col items-center gap-4 bg-gradient-40deg rounded-xl">
             <p class="border-2 w-fit py-1 px-2 rounded-2xl border-border-bt text-border-bt font-bold">ОЦЕНКА</p>
             <p class="font-bold text-lg">Узнайте, сколько стоит Ваш автомобиль</p>
             <div class="w-full flex flex-col gap-1">
