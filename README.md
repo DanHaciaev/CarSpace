@@ -1,29 +1,37 @@
 # CarSpace
 
-This template should help get you started developing with Vue 3 in Vite.
+## Vue-Based Concept Website for Client Presentation
 
-## Recommended IDE Setup
+**CarSpace** is a desktop-only concept project developed using **Vue.js**.  
+It was created as a visual prototype to showcase to potential clients.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The homepage includes sections such as a **car listing**, **popular models**, **news**, and **user reviews**. All components were built based on the original **Figma** design.  
+While the project was not fully launched to the public, it effectively demonstrates the layout and design intentions.
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🏠 Home Page
 
-## Project Setup
+![Home Page](./public/examples/main.png)
 
-```sh
-npm install
-```
+## 🚗 Car Listing
 
-### Compile and Hot-Reload for Development
+![Car List](./public/examples/items.png)
 
-```sh
-npm run dev
-```
+## ⭐ Popular Section
 
-### Compile and Minify for Production
+![Popular Section](./public/examples/popular.png)
 
-```sh
-npm run build
-```
+## 📰 News Section
+
+![News](./public/examples/news.png)
+
+## 🗣️ Reviews Section
+
+![Reviews](./public/examples/reviews.png)
+
+---
+
+## 🔗 Live Preview
+
+[View the project](https://car-space-zeta.vercel.app/)
